@@ -62,7 +62,7 @@ cd server
 ```
 Install the node modules
 ```
-npm start
+npm install
 ```
 Start the server
 ```
